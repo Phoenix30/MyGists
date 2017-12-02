@@ -9,6 +9,6 @@ https://gist.github.com/Phoenix30
 *Link*: [FB_AutoLike.js](https://gist.github.com/Phoenix30/ead79ac120319687cfc733d53cfe7214)
 
 **2. Doubts AutoSelect for Toppr.com**<br />
-*Description*: This script automates the process of choosing doubts on Toppr. You can choose the classes for which you want to solve doubts, you can choose subjects and even add annoying students (who rate you less) to the blacklist and never take their doubts again. You don't even need to be staring at the screen as this script notifies you with a Desktop notifiaction whenever a doubt of your requirements has arrived. <br />
+*Description*: This script automates the process of choosing doubts on Toppr. You can choose the classes for which you want to solve doubts, you can choose subjects and even add annoying students (who rate you less) to the blacklist and never take their doubts again. You don't even need to be staring at the screen as this script notifies you with a Desktop notification whenever a doubt of your requirements has arrived. <br />
 *Language*: JavaScript<br />
 *Link*: This is a Secret Gist for my personal use only !!!
